@@ -1,0 +1,10 @@
+C:\Users\bogdann\source\repos\Finances\bin\Debug\Finances.exe.config
+C:\Users\bogdann\source\repos\Finances\bin\Debug\Finances.exe
+C:\Users\bogdann\source\repos\Finances\bin\Debug\Finances.pdb
+C:\Users\bogdann\source\repos\Finances\obj\Debug\Finances.csproj.AssemblyReference.cache
+C:\Users\bogdann\source\repos\Finances\obj\Debug\Finances.Form1.resources
+C:\Users\bogdann\source\repos\Finances\obj\Debug\Finances.Properties.Resources.resources
+C:\Users\bogdann\source\repos\Finances\obj\Debug\Finances.csproj.GenerateResource.cache
+C:\Users\bogdann\source\repos\Finances\obj\Debug\Finances.csproj.CoreCompileInputs.cache
+C:\Users\bogdann\source\repos\Finances\obj\Debug\Finances.exe
+C:\Users\bogdann\source\repos\Finances\obj\Debug\Finances.pdb

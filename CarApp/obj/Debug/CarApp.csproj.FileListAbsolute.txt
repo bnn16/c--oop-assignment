@@ -1,0 +1,10 @@
+C:\Users\bogdann\source\repos\CarApp\bin\Debug\CarApp.exe.config
+C:\Users\bogdann\source\repos\CarApp\bin\Debug\CarApp.exe
+C:\Users\bogdann\source\repos\CarApp\bin\Debug\CarApp.pdb
+C:\Users\bogdann\source\repos\CarApp\obj\Debug\CarApp.csproj.AssemblyReference.cache
+C:\Users\bogdann\source\repos\CarApp\obj\Debug\CarApp.Form1.resources
+C:\Users\bogdann\source\repos\CarApp\obj\Debug\CarApp.Properties.Resources.resources
+C:\Users\bogdann\source\repos\CarApp\obj\Debug\CarApp.csproj.GenerateResource.cache
+C:\Users\bogdann\source\repos\CarApp\obj\Debug\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\bogdann\source\repos\CarApp\obj\Debug\CarApp.exe
+C:\Users\bogdann\source\repos\CarApp\obj\Debug\CarApp.pdb
