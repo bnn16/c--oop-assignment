@@ -1,0 +1,15 @@
+/Users/bogdann/Projects/SnackBar/SnackBar/bin/Debug/net6.0/SnackBar
+/Users/bogdann/Projects/SnackBar/SnackBar/bin/Debug/net6.0/SnackBar.deps.json
+/Users/bogdann/Projects/SnackBar/SnackBar/bin/Debug/net6.0/SnackBar.runtimeconfig.json
+/Users/bogdann/Projects/SnackBar/SnackBar/bin/Debug/net6.0/SnackBar.dll
+/Users/bogdann/Projects/SnackBar/SnackBar/bin/Debug/net6.0/SnackBar.pdb
+/Users/bogdann/Projects/SnackBar/SnackBar/obj/Debug/net6.0/SnackBar.csproj.AssemblyReference.cache
+/Users/bogdann/Projects/SnackBar/SnackBar/obj/Debug/net6.0/SnackBar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdann/Projects/SnackBar/SnackBar/obj/Debug/net6.0/SnackBar.AssemblyInfoInputs.cache
+/Users/bogdann/Projects/SnackBar/SnackBar/obj/Debug/net6.0/SnackBar.AssemblyInfo.cs
+/Users/bogdann/Projects/SnackBar/SnackBar/obj/Debug/net6.0/SnackBar.csproj.CoreCompileInputs.cache
+/Users/bogdann/Projects/SnackBar/SnackBar/obj/Debug/net6.0/SnackBar.dll
+/Users/bogdann/Projects/SnackBar/SnackBar/obj/Debug/net6.0/refint/SnackBar.dll
+/Users/bogdann/Projects/SnackBar/SnackBar/obj/Debug/net6.0/SnackBar.pdb
+/Users/bogdann/Projects/SnackBar/SnackBar/obj/Debug/net6.0/SnackBar.genruntimeconfig.cache
+/Users/bogdann/Projects/SnackBar/SnackBar/obj/Debug/net6.0/ref/SnackBar.dll

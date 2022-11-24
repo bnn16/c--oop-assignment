@@ -1,0 +1,15 @@
+/Users/bogdann/Projects/start/start/bin/Debug/net6.0/start
+/Users/bogdann/Projects/start/start/bin/Debug/net6.0/start.deps.json
+/Users/bogdann/Projects/start/start/bin/Debug/net6.0/start.runtimeconfig.json
+/Users/bogdann/Projects/start/start/bin/Debug/net6.0/start.dll
+/Users/bogdann/Projects/start/start/bin/Debug/net6.0/start.pdb
+/Users/bogdann/Projects/start/start/obj/Debug/net6.0/start.csproj.AssemblyReference.cache
+/Users/bogdann/Projects/start/start/obj/Debug/net6.0/start.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdann/Projects/start/start/obj/Debug/net6.0/start.AssemblyInfoInputs.cache
+/Users/bogdann/Projects/start/start/obj/Debug/net6.0/start.AssemblyInfo.cs
+/Users/bogdann/Projects/start/start/obj/Debug/net6.0/start.csproj.CoreCompileInputs.cache
+/Users/bogdann/Projects/start/start/obj/Debug/net6.0/start.dll
+/Users/bogdann/Projects/start/start/obj/Debug/net6.0/refint/start.dll
+/Users/bogdann/Projects/start/start/obj/Debug/net6.0/start.pdb
+/Users/bogdann/Projects/start/start/obj/Debug/net6.0/start.genruntimeconfig.cache
+/Users/bogdann/Projects/start/start/obj/Debug/net6.0/ref/start.dll

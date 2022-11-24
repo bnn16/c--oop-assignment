@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7utBzUB+wSKWimVnpq9tZF8TQDi38Apfj9WoquN6vhchtDa7E4BzJRijj9wUVj3bg/HejaqteWdrMiu9vdXe6g==",
+  "success": true,
+  "projectFilePath": "/Users/bogdann/Projects/start/start/start.csproj",
+  "expectedPackageFiles": [
+    "/Users/bogdann/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/bogdann/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.11/microsoft.netcore.app.host.osx-arm64.6.0.11.nupkg.sha512",
+    "/Users/bogdann/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

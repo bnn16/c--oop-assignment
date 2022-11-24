@@ -1,0 +1,15 @@
+/Users/bogdann/Projects/lottery/lottery/bin/Debug/net6.0/lottery
+/Users/bogdann/Projects/lottery/lottery/bin/Debug/net6.0/lottery.deps.json
+/Users/bogdann/Projects/lottery/lottery/bin/Debug/net6.0/lottery.runtimeconfig.json
+/Users/bogdann/Projects/lottery/lottery/bin/Debug/net6.0/lottery.dll
+/Users/bogdann/Projects/lottery/lottery/bin/Debug/net6.0/lottery.pdb
+/Users/bogdann/Projects/lottery/lottery/obj/Debug/net6.0/lottery.csproj.AssemblyReference.cache
+/Users/bogdann/Projects/lottery/lottery/obj/Debug/net6.0/lottery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdann/Projects/lottery/lottery/obj/Debug/net6.0/lottery.AssemblyInfoInputs.cache
+/Users/bogdann/Projects/lottery/lottery/obj/Debug/net6.0/lottery.AssemblyInfo.cs
+/Users/bogdann/Projects/lottery/lottery/obj/Debug/net6.0/lottery.csproj.CoreCompileInputs.cache
+/Users/bogdann/Projects/lottery/lottery/obj/Debug/net6.0/lottery.dll
+/Users/bogdann/Projects/lottery/lottery/obj/Debug/net6.0/refint/lottery.dll
+/Users/bogdann/Projects/lottery/lottery/obj/Debug/net6.0/lottery.pdb
+/Users/bogdann/Projects/lottery/lottery/obj/Debug/net6.0/lottery.genruntimeconfig.cache
+/Users/bogdann/Projects/lottery/lottery/obj/Debug/net6.0/ref/lottery.dll

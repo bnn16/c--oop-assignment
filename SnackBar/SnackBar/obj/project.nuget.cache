@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "az+zKmanufk9RtbuY71dwXQDyi7QQAiO1xD0889on3/R9VizooIO5oP9HPK1rzOdHNWPDjuUDsL5pztdrMIkQw==",
+  "success": true,
+  "projectFilePath": "/Users/bogdann/Projects/SnackBar/SnackBar/SnackBar.csproj",
+  "expectedPackageFiles": [
+    "/Users/bogdann/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/bogdann/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.11/microsoft.netcore.app.host.osx-arm64.6.0.11.nupkg.sha512",
+    "/Users/bogdann/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
